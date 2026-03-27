@@ -9,6 +9,20 @@ Software Engineer at Amazon building distributed cloud infrastructure and genera
 
 ---
 
+## 🚀 Featured Project
+
+### [CalPal](https://github.com/yanxuantong/Calpal-App) — Privacy-First AI Calendar for iPhone
+
+> Voice or text → on-device intent parsing → calendar action. No cloud. No tracking.
+
+Built with **SwiftUI** + **Apple Foundation Models**, CalPal keeps your schedule data entirely on-device. Supports English & Chinese, integrates with system calendars (including Google Calendar via iOS sync), and uses Apple Intelligence for natural language scheduling.
+
+![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=flat-square&logo=swift&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-%23007AFF.svg?style=flat-square&logo=swift&logoColor=white)
+
+---
+
 ## 🛠 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
