@@ -23,6 +23,8 @@ Built using an agentic coding workflow — **Claude Code** for planning and PRD,
 ### [Multi-Agent Job Search Platform](https://github.com/yanxuantong/multi-agent-job-search-platform) — Agent Orchestration Reference App
 > Job description → structured role signals → company research → fit analysis → human approval → tracker update → interview prep.
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-jobagent--demo.onrender.com-16A34A?style=for-the-badge)](https://jobagent-demo.onrender.com)
+
 A learning-first reference implementation for production-style agent systems. The project demonstrates a control-plane orchestrator, typed shared state, human-in-the-loop checkpoints, pause/resume behavior, offline evals, JSONL traces, FastAPI/Jinja UI, Render deployment, and MCP-style tool boundaries.
 
 The default workflow is intentionally deterministic and low-cost: no API keys, no hosted vector database, and no fragile external calls. The goal is to make the core AI infrastructure pattern visible before swapping in LangGraph, LLM providers, MCP tools, Langfuse, Postgres, or pgvector.
