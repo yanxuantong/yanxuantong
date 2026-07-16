@@ -3,6 +3,7 @@
 Backend and AI infra engineer. Previously SDE at Amazon, where I built **cloud capacity optimization** and an **org-wide RAG assistant** bridging AWS infrastructure with internal services.
 
 - 🛠 **Currently building**: [CalPal](https://github.com/yanxuantong/Calpal-App) and a [multi-agent job-search platform](https://github.com/yanxuantong/multi-agent-job-search-platform)
+- ✨ **Recently shipped**: [Mira](https://github.com/yanxuantong/mira-museum-guide), a multimodal AI museum guide with a live voice experience
 - 🤖 **Exploring**: agentic coding workflows, on-device LLMs, multi-agent orchestration, and the boundary between non-deterministic AI and SLA-bound systems
 - 🎓 Northwestern University, M.S. Computer Engineering
 - 📍 Sunnyvale, CA
@@ -10,6 +11,15 @@ Backend and AI infra engineer. Previously SDE at Amazon, where I built **cloud c
 ---
 
 ## 🚀 Featured Projects
+
+### [Mira](https://github.com/yanxuantong/mira-museum-guide) — Multimodal AI Museum Guide
+> Artwork image → AI-generated guide → voice interaction → live mobile Visit Card.
+
+A phone-first AI guide for a fictional museum exhibition. Visitors upload or capture an artwork image, receive a contextual AI guide, and see a phone-linked Visit Card update with a summary and next recommendation.
+
+Mira combines live multimodal image understanding, LLM guide generation, outbound voice in the deployed flow, and a browser-visible mobile experience. The project also includes replayable demo data, automated verification, and evidence artifacts for a dependable demo workflow.
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript) [![Multimodal AI](https://img.shields.io/badge/Multimodal_AI-412991?style=flat-square)](https://github.com/yanxuantong/mira-museum-guide) [![Voice AI](https://img.shields.io/badge/Voice_AI-5A45FF?style=flat-square)](https://github.com/yanxuantong/mira-museum-guide) [![Live Demo](https://img.shields.io/badge/Live_Demo-16A34A?style=flat-square)](https://5b7aw6n2.insforge.site)
 
 ### [CalPal](https://github.com/yanxuantong/Calpal-App) — Privacy-First AI Calendar for iPhone
 > Voice or text → on-device intent parsing → calendar action. No cloud. No tracking.
