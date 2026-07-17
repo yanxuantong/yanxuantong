@@ -1,6 +1,6 @@
 # Hi, I'm Shawn 👋
 
-Backend and AI infra engineer. Previously SDE at Amazon, where I built **cloud capacity optimization** and an **org-wide RAG assistant** bridging AWS infrastructure with internal services.
+Backend and AI infra engineer building reliable, user-facing AI systems.
 
 - 🛠 **Currently building**: [CalPal](https://github.com/yanxuantong/Calpal-App) and a [multi-agent job-search platform](https://github.com/yanxuantong/multi-agent-job-search-platform)
 - ✨ **Recently shipped**: [Mira](https://github.com/yanxuantong/mira-museum-guide), a multimodal AI museum guide with a live voice experience
